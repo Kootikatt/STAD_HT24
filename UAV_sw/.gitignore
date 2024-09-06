@@ -1,0 +1,14 @@
+# When building these repos for development or deployment,
+# a lot of artifacts are created such as build files.
+# We dont want this in the repository to keept it clean.
+# This gitignore handles all UAV_ws related artifact files / folders.
+
+# Build files
+uav/main/build/
+uav/gui/build/
+
+uav_ros2_ws/build/
+uav_ros2_ws/install/
+uav_ros2_ws/log/
+
+.vscode
