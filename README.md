@@ -1,8 +1,8 @@
-# STAD
+# STAD HT2024
 
 ### Safe Trustworthy Autonomous Delivery System
 
-This project started in the Fall of 2023 and marks the first iteration of the STAD project.
+This project started in the Fall of 2024 and marks the first iteration of the STAD project.
 
 ## Getting Started
 
